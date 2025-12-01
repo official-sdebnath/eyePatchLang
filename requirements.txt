@@ -1,0 +1,16 @@
+openai
+langchain
+langchain-openai
+streamlit
+python-dotenv
+fastapi
+uvicorn
+langserve
+langchain_community
+sse_starlette
+requests
+pypdf2
+faiss-cpu
+python-multipart
+unstructured
+langchain-classic

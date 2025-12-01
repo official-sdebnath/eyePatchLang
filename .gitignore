@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__
+__init__.py
+index/
+vectorstores/
+
+
